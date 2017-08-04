@@ -1,0 +1,38 @@
+.fullwrap, .header, .wrap, .main, .sidebar, .footer {
+	border: 1px solid;
+}
+.fullwrap {
+	width: 484px;
+	height: 528px;
+}
+
+.header {
+	margin: 10px 10px 11px;
+	height: 60px;
+}
+
+.wrap {
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 315px;
+}
+
+.main {
+	height: 290px;
+	width: 254px;
+	float: left;
+	margin-left: 9px;
+	margin-top: 10px;
+}
+.sidebar {
+	height: 290px;
+	width: 165px;
+	float: right;
+	margin-right: 9px;
+	margin-top: 10px;
+}
+
+.footer {
+	margin: 11px 10px 10px;
+	height: 100px;
+}

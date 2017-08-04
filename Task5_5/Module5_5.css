@@ -1,0 +1,136 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.fullwrap { 
+	width: 760px;
+	height: 1690px;
+	background: #d1d1d1;
+}
+
+.header {
+	margin:0;
+	padding: 60px 60px 0;
+	width: 640px;
+	height: 150px;
+} 
+
+.top {
+	padding: 0;
+	width: 640px;
+	height: 150px;
+}
+
+.main {
+	margin: 0 60px;
+	height: 1370px;
+	width: 640px;
+	background: white;
+}
+
+.text1 {
+	padding: 40px 50px 10px;
+}
+
+p {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	height: 1.8;
+}
+
+.hook {
+	text-align: center;
+}
+
+span {
+	font-weight: bold;
+}
+
+.site {
+	color: blue;
+	font-weight: bold;
+}
+
+.subscribe1, .subscribe2 {
+	margin-bottom: 30px;
+	width: 255px;
+	height: 350px;
+}
+.subscribe1 {
+	margin-left: 50px;
+	float: left;
+}
+.subscribe2 {
+	margin-right: 50px;
+	float: right;
+}
+.s1, .s2 {
+	width: 255px;
+	height: 213px;
+}
+
+.subscribe3, .subscribe4, .subscribe5 {
+	width: 160px;
+	height: 375px;
+	float: left;
+}
+
+.subscribe3 {
+	margin-left: 50px;
+	float: left;
+	margin-bottom: 30px;
+}
+.subscribe4, .subscribe5 {
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 30px;
+
+}
+
+.s3, .s4, .s5 {
+	width: 160px;
+	height: 213px;
+}
+.click1, .click2, .click3 {
+	margin-top: 20px;
+	height: 40px;
+	width: 255px;
+	background-color: #cf5b4e;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-family: "Arial Narrow", Arial, sans-serif;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+.click2 {
+	width: 160px;
+	margin-top: 0;
+}
+.click3 {
+	padding-left: 50px;
+	width: 540px;
+}
+.text2 {
+	margin: 0px 50px 30px;
+
+}
+.support {
+	font-style: italic;
+}
+.final, .unsubscribe {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	font-family: "Arial Narrow", Arial, sans-serif;
+	font-size: 13px; 
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	line-height: 1.8;
+}
