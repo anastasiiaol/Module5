@@ -10,14 +10,10 @@
 	clear: both;
 }
 
-.rows, .lastrow {
+.rows {
   width: 100px;
   height: 100px;
   background: #00F1FF;
   margin: 5px;
   float: left;
 }
-
-.lastrow {
-  background: #FF6600;  
-} 
